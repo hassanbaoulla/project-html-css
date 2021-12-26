@@ -1,0 +1,53 @@
+body {
+	font-family: "Playfair Display", serif;
+	font-size: 1em;
+	margin: 10%;
+	color: #34495E;
+	line-height: 1.8;
+
+}
+header ol{
+	display: inline-block;
+
+}
+
+h2{
+	border: outset;
+	text-align: center;
+	background-color: #8B76D2;
+	color: white;
+	font-family: "Kaushan Script";
+}
+main a{
+	text-align: center;
+}
+h4{
+	border: outset;
+
+	background-color: #8B76D2;
+	color: white;
+	font-family: 'Sriracha', cursive;
+    font-size: 1em;
+	margin: 0;
+
+	line-height: 1.8;
+}
+
+
+
+.licence a {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+.licence {
+	background-color: #8B76D2;
+	padding: 10px;
+	color: white;
+	font-size: 0.8em;
+	text-align: center;
+}
+
+.licence img {
+    width: 30px;
+}
